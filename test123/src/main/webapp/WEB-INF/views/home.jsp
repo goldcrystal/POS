@@ -6,9 +6,8 @@
 </head>
 <body>
 <h1>
-	Hello world!  
+	이영창
 </h1>
-
-<P>  The time on the server is ${serverTime}. </P>
+f
 </body>
 </html>
